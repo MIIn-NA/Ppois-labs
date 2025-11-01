@@ -1,0 +1,15 @@
+# Doxygen configuration for SetLib
+PROJECT_NAME           = "SetLib"
+OUTPUT_DIRECTORY       = docs
+GENERATE_HTML          = YES
+GENERATE_LATEX         = NO
+INPUT                  = include src README.md
+RECURSIVE              = YES
+EXTRACT_ALL            = YES
+EXTRACT_PRIVATE        = YES
+QUIET                  = YES
+WARN_IF_UNDOCUMENTED   = YES
+FILE_PATTERNS          = *.h *.cpp *.md
+JAVADOC_AUTOBRIEF      = YES
+MARKDOWN_SUPPORT       = YES
+USE_MDFILE_AS_MAINPAGE = README.md

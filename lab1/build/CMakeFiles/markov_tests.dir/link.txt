@@ -1,0 +1,1 @@
+/usr/bin/c++  -fprofile-arcs -ftest-coverage -g CMakeFiles/markov_tests.dir/tests/markov_algorithm_tests.cpp.o CMakeFiles/markov_tests.dir/src/Markov.cpp.o CMakeFiles/markov_tests.dir/src/Rule.cpp.o -o markov_tests  /usr/lib/x86_64-linux-gnu/libgtest.a /usr/lib/x86_64-linux-gnu/libgtest_main.a -lpthread /usr/lib/x86_64-linux-gnu/libgtest.a 

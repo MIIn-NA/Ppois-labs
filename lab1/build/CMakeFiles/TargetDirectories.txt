@@ -1,0 +1,4 @@
+/home/ubuntu/markov-algorithm/build/CMakeFiles/markov_tests.dir
+/home/ubuntu/markov-algorithm/build/CMakeFiles/test.dir
+/home/ubuntu/markov-algorithm/build/CMakeFiles/edit_cache.dir
+/home/ubuntu/markov-algorithm/build/CMakeFiles/rebuild_cache.dir

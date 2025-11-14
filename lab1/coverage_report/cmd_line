@@ -1,1 +1,0 @@
-genhtml --output-directory coverage_report coverage_filtered.info --ignore-errors empty
